@@ -14,4 +14,4 @@ The program was written by Tom Catullo (tcatullo25*{at}*gmail*{dot}*com) as a le
 
 ## Acknowledgements
 - The included graphics library, `graphics.py`, was written by John Zelle for use with the book "Python Programming: An Introduction to Computer Science" (Franklin, Beedle & Associates). *__Note:__ I only used this particular graphics library because it was included with the textbook used in my university class; however, I am aware that there are __much__ better alternatives out there.*
-- The content of the included `wordlist.txt` file was obtained from <http://www.mieliestronk.com/wordlist.html>.
+# CodeAlpha_Hangman
